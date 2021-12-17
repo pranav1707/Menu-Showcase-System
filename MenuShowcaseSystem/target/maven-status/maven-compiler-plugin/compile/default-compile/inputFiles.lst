@@ -1,0 +1,7 @@
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/ServletInitializer.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/MenuShowcaseSystemApplication.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/service/MenuService.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/model/Menu.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/errors/MenuErrors.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/controller/MenuController.java
+/home/ubuntu/eclipse-workspace/MenuShowcaseSystem/src/main/java/com/cts/MenuShowcaseSystem/dao/MenuRepository.java
